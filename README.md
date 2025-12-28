@@ -129,6 +129,25 @@ Aqui no GitHub compartilho projetos que refletem minha jornada de aprendizado co
 
 </div>
 
+---
+### 🎓 Certificações e Cursos
+
+- 🎓 Graduação em Engenharia de Produção - UNIFEI  
+  [![Graduação](https://img.shields.io/badge/UNIFEI-Engenharia%20de%20Produção-blue)](https://www.linkedin.com/in/davidnunes9/overlay/1754761064573/single-media-viewer/?profileId=ACoAACPHD54BeCPO3j1Nmv7beLkSY3Ja3gqYiNk)
+
+- 📊 Certificação PL-300: Microsoft Power BI Data Analyst  
+  [![PL-300](https://img.shields.io/badge/Microsoft-PL--300%20Power%20BI-success)](https://learn.microsoft.com/pt-br/users/davidnunesdossantos-4256/credentials/a9053b24fa917113?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
+- 🌐 EF SET English Certificate – 66/100 (C1 Advanced)  
+  [![EF SET](https://img.shields.io/badge/EF%20SET-C1%20Advanced-lightgrey)](https://cert.efset.org/en/ZEeCPp)
+
+
+- 🟡 Certificação Yellow Belt (Lean Six Sigma)  
+  [![Yellow Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Yellow%20Belt-yellow)](https://ead.fm2s.com.br/verify/603052c0777605b0b6d2f16f0fc09ff023ce3e4c)
+  ---
+
+### 📊 Estatísticas 
+
 <!--Grafico Estatísticas-->
 
 <div align="center">
