@@ -146,6 +146,7 @@ Meu diferencial está em ir além da construção de dashboards: gosto de invest
 
 - 🟡 Certificação Yellow Belt (Lean Six Sigma)  
   [![Yellow Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Yellow%20Belt-yellow)](https://ead.fm2s.com.br/verify/603052c0777605b0b6d2f16f0fc09ff023ce3e4c)
+  
   ---
 
 ### 📊 Estatísticas 
