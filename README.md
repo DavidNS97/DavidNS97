@@ -131,7 +131,7 @@ Meu diferencial está em ir além da construção de dashboards: gosto de invest
 </div>
 
 ---
-### 🎓 Certificações e Cursos
+### 🎓 Certificações
 
 - 🎓 Graduação em Engenharia de Produção - UNIFEI  
   [![Graduação](https://img.shields.io/badge/UNIFEI-Engenharia%20de%20Produção-blue)](https://www.linkedin.com/in/davidnunes9/overlay/1754761064573/single-media-viewer/?profileId=ACoAACPHD54BeCPO3j1Nmv7beLkSY3Ja3gqYiNk)
