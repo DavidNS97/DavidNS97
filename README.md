@@ -155,6 +155,6 @@ Aqui no GitHub compartilho projetos que refletem minha jornada de aprendizado co
 
 <!--Pac Man-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/DavidNS97/DavidNS97/main/pacman-contributions.svg" width="700">
+<img src="https://raw.githubusercontent.com/DavidNS97/DavidNS97/main/pacman-contributions.svg" width="800">
 </p>
 
