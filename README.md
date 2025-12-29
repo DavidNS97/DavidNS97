@@ -84,16 +84,6 @@ Meu diferencial está em ir além da construção de dashboards: gosto de invest
 <br/>
 
 ---
-### 🗂️ Projetos em Destaque
-| Projeto                                                   | Descrição                                                                                                                                                                                                 | Tecnologias            | Link |
-|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------|
-| SQL - Construindo um Perfil Comportamental de Clientes     | Projeto com objetivo de usar o SQL para entender como os usuários se comportam dentro de uma plataforma financeira.                                                                                       | SQLite, VS Code        | [Ver projeto](https://github.com/DavidNS97/SQL---Construindo-um-Perfil-Comportamental-de-Clientes) |
-| Predição de Churn em E-commerce com Machine Learning       | Projeto de machine learning voltado à previsão de churn em e-commerce, incluindo análise exploratória, engenharia de atributos, discretização supervisionada, comparação de modelos e aplicação interativa. | Python, Streamlit      | [Ver projeto](https://github.com/DavidNS97/Predicao-churn-clientes-ecommerce) |
-| Análise do Setor de Alimentação no Brasil (Power BI)       | Dashboard desenvolvido em Power BI para análise do setor de alimentação no Brasil, utilizando dados da Receita Federal e IBGE para mapear concentração de empresas, riscos, tendências e oportunidades.   | Power BI, Excel        | [Ver projeto](https://github.com/DavidNS97/Analise-do-Setor-de-Alimentacao-no-Brasil-Explorando-Mercado-para-Expansao-Power-BI) |
-| Dashboard Financeiro (Power BI)                                     | Dashboard financeiro desenvolvido em Power BI com foco em análise de fluxo de caixa, margem, despesas e simulações What-If. Ideal para apoiar tomadas de decisão.                                                                                               | Power BI, Excel   | [Ver projeto](https://github.com/DavidNS97/Projeto-de-Dashboard-Financeiro-com-Power-BI-Fluxo-de-Caixa-e-What-If) |
-
----
-
 ### 🎓 Certificações
 
 - 🎓 Graduação em Engenharia de Produção - UNIFEI  
@@ -111,6 +101,15 @@ Meu diferencial está em ir além da construção de dashboards: gosto de invest
   
   ---
 
+### 🗂️ Projetos em Destaque
+| Projeto                                                   | Descrição                                                                                                                                                                                                 | Tecnologias            | Link |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------|
+| SQL - Construindo um Perfil Comportamental de Clientes     | Projeto com objetivo de usar o SQL para entender como os usuários se comportam dentro de uma plataforma financeira.                                                                                       | SQLite, VS Code        | [Ver projeto](https://github.com/DavidNS97/SQL---Construindo-um-Perfil-Comportamental-de-Clientes) |
+| Predição de Churn em E-commerce com Machine Learning       | Projeto de machine learning voltado à previsão de churn em e-commerce, incluindo análise exploratória, engenharia de atributos, discretização supervisionada, comparação de modelos e aplicação interativa. | Python, Streamlit      | [Ver projeto](https://github.com/DavidNS97/Predicao-churn-clientes-ecommerce) |
+| Análise do Setor de Alimentação no Brasil (Power BI)       | Dashboard desenvolvido em Power BI para análise do setor de alimentação no Brasil, utilizando dados da Receita Federal e IBGE para mapear concentração de empresas, riscos, tendências e oportunidades.   | Power BI, Excel        | [Ver projeto](https://github.com/DavidNS97/Analise-do-Setor-de-Alimentacao-no-Brasil-Explorando-Mercado-para-Expansao-Power-BI) |
+| Dashboard Financeiro (Power BI)                                     | Dashboard financeiro desenvolvido em Power BI com foco em análise de fluxo de caixa, margem, despesas e simulações What-If. Ideal para apoiar tomadas de decisão.                                                                                               | Power BI, Excel   | [Ver projeto](https://github.com/DavidNS97/Projeto-de-Dashboard-Financeiro-com-Power-BI-Fluxo-de-Caixa-e-What-If) |
+
+---
 
 ### 📊 Estatísticas
 
