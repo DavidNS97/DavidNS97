@@ -5,7 +5,7 @@
 Olá, me chamo David, sou formado em Engenharia de Produção, onde desenvolvi minha paixão por estatística e tecnologia. Tenho 4 anos de experiência em análise de dados, desenvolvendo dashboards e pipelines que transformam dados em decisões estratégicas. 
 Aqui no GitHub compartilho projetos que refletem minha jornada de aprendizado contínuo em dados. 
 
-Meu diferencial está em ir além da construção de dashboards: gosto de investigar os dados em profundidade, identificar padrões e oportunidades, e traduzir essas descobertas em ações concretas que geram impacto real.
+Meu diferencial está em ir além da construção de dashboards: gosto de investigar os dados em profundidade, identificar padrões e oportunidades, e traduzir essas descobertas em ações concretas que geram impacto real ( e com ótimo design,rs)
 
 ---
 
